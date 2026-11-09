@@ -27,5 +27,4 @@ Software for Linux and Windows desktops, Microsoft Dynamics 365 and the Power Pl
 
 | Project | What it does |
 | --- | --- |
-| [Plaud_API](https://github.com/StuderWorks/Plaud_API) | Unofficial library for the PLAUD API |
 | [AzureDevOpsProjectRepoDownloader](https://github.com/StuderWorks/AzureDevOpsProjectRepoDownloader) | Download every repo in an Azure DevOps project |
